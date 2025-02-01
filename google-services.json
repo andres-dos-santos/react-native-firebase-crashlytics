@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443947847969",
+    "project_id": "react-native-crashlytics-4b50e",
+    "storage_bucket": "react-native-crashlytics-4b50e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443947847969:android:d42015ab4a865dc9b92e60",
+        "android_client_info": {
+          "package_name": "com.crashlytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMBDfJkQL9qr5iabQCJwli_W3IFZuDPpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
